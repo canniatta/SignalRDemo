@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Ingredient\\Learn\\C#\\SignalRDemo\\SignalRDemo\\SignalRDemo.csproj": {}
+    "D:\\Ingredient\\Learn\\C#\\Signal-R\\SignalRDemo\\SignalRDemo.csproj": {}
   },
   "projects": {
-    "D:\\Ingredient\\Learn\\C#\\SignalRDemo\\SignalRDemo\\SignalRDemo.csproj": {
+    "D:\\Ingredient\\Learn\\C#\\Signal-R\\SignalRDemo\\SignalRDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ingredient\\Learn\\C#\\SignalRDemo\\SignalRDemo\\SignalRDemo.csproj",
+        "projectUniqueName": "D:\\Ingredient\\Learn\\C#\\Signal-R\\SignalRDemo\\SignalRDemo.csproj",
         "projectName": "SignalRDemo",
-        "projectPath": "D:\\Ingredient\\Learn\\C#\\SignalRDemo\\SignalRDemo\\SignalRDemo.csproj",
+        "projectPath": "D:\\Ingredient\\Learn\\C#\\Signal-R\\SignalRDemo\\SignalRDemo.csproj",
         "packagesPath": "C:\\Users\\azhari.agand\\.nuget\\packages\\",
-        "outputPath": "D:\\Ingredient\\Learn\\C#\\SignalRDemo\\SignalRDemo\\obj\\",
+        "outputPath": "D:\\Ingredient\\Learn\\C#\\Signal-R\\SignalRDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
