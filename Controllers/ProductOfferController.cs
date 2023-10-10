@@ -19,9 +19,9 @@ namespace SignalRDemo.Controllers
         {
             List<string> offers = new()
             {
-                "20% Off on IPhone 12",
-                "15% Off on HP Pavillion",
-                "25% Off on Samsung Smart TV"
+                "Produk Local",
+                "Produk Import",
+                "Produk Export"
             };
             messageHub.Clients.All.SendOffersToUser(offers);
             return "Offers sent successfully to all users!";
